@@ -2,7 +2,7 @@
   "name": "backend",
   "version": "1.3.1",
   "private": true,
-  "homepage": "https://github.com/AlternativaBR/fundofim",
+  "homepage": "https://github.com/AlternativaBR/fundofim2",
   "engines": {
     "node": ">=18"
   },
